@@ -1,13 +1,14 @@
 #include<stdio.h>
 
-void func();
+int func();
 
 void main()
 {
   printf("This is C programm");
 }
 
-void func()
+int func()
 {
 	printf("This is user defined function");
+return 0;
 }
