@@ -2,6 +2,7 @@
 #include<string.h>
 int func();
 
+#include<conio.h>
 void main()
 {
   printf("This is C programm");
