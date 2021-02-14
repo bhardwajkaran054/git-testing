@@ -5,6 +5,7 @@ int func();
 void main()
 {
   printf("This is C programm");
+func();
 }
 
 int func()
